@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "VC_TheBroad_Supplied_the_broad_photo_by_iwan_baan_3811_HR_1280x640.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

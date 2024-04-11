@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Spiral Parking Structure",
+        "category": "Downtown",
+        "id": 1001,
+        "isFavorite": false,
+        "address": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -118.1204,
+            "latitude": 33.4520
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "Spiral"
+    },
+    {
+        "name": "Angels Gate Park",
+        "category": "Coast",
+        "id": 1002,
+        "isFavorite": false,
+        "address": "3601 S Gaffey St, San Pedro",
+        "coordinates": {
+            "longitude": -118.293990,
+            "latitude": 33.710561
+        },
+        "description": "Angels Gate Park in San Pedro contains a unique arched basketball court and the Korean Friendship Bell. The park is located atop a large hill that gives a stunning view of the ocean.",
+        "imageName": "Bell"
+    },
+    {
+        "name": "Slauson Station Bridge",
+        "category": "Downtown",
+        "id": 1003,
+        "isFavorite": false,
+        "address": "350 W Slauson Ave, Los Angeles",
+        "coordinates": {
+            "longitude": -118.280100,
+            "latitude": 33.988483
+        },
+        "description": "A pedestrian bridge located on Slauson Silver Line Station is a great place to take portraits at night. The bridge is well-lit by a single light that runs down the top of the tunnel. The fenced tunnel gives portraits a nice blue background that is perfect for moody photos. The area isn’t the safest, so definitely bring a few friends.",
+        "imageName": "Slau"
+    },
+    {
+        "name": "California Department of Transportation",
+        "category": "Downtown",
+        "id": 1004,
+        "isFavorite": false,
+        "address": "100 S Main St, Los Angeles",
+        "coordinates": {
+            "longitude": -118.243654,
+            "latitude": 34.051534
+        },
+        "description": "This spot's neon red lights make it a perfect location for night portrait photoshoots. The lights are hard to miss when driving by, and parking is easy to find.",
+        "imageName": "CDT"
+    },
+    {
+        "name": "OUE Skyspace",
+        "category": "Downtown",
+        "id": 1005,
+        "isFavorite": false,
+        "address": "633 W 5th St, Los Angeles",
+        "coordinates": {
+            "longitude": -118.254699,
+            "latitude": 34.051218
+        },
+        "description": "This observation deck in the US Bank Tower downtown includes a 360-degree view of Los Angeles and a glass slide. Daily admission costs $25, and a ride down the Skyslide costs $8.",
+        "imageName": "OUE"
+    },
+    {
+        "name": "Figueroa St Bridge",
+        "category": "Downtown",
+        "id": 1006,
+        "isFavorite": false,
+        "address": "261 S Figueroa St, Los Angeles",
+        "coordinates": {
+            "longitude": -118.253861,
+            "latitude": 34.055825
+        },
+        "description": "Right next to The Park DTLA is a bridge that gives a stunning view of the LA skyline. The bridges are lined with lights under the railings that light up the subject, making it the perfect spot for night portraits. The bridge passing over Figueroa street gives a great spot for light trail photography as cars drive by.",
+        "imageName": "Spiral"
+    },
+    {
+        "name": "Santa Monica Pier",
+        "category": "Coast",
+        "id": 1007,
+        "isFavorite": false,
+        "address": "200 Santa Monica Pier, Santa Monica",
+        "coordinates": {
+            "longitude": -118.496878,
+            "latitude": 34.009422
+        },
+        "description": "Sunset at the famous Santa Monica Pier is a must for any photographer in LA. The colorful lights illuminating the rides accompanied by the crashing waves and the sun setting behind the pier is something everyone must see once in their life. I definitely recommend exploring the pier and even walking underneath it for any first-timers.",
+        "imageName": "SM"
+    },
+    {
+        "name": "The Broad",
+        "category": "Downtown",
+        "id": 1008,
+        "isFavorite": false,
+        "address": "221 S Grand Ave, Los Angeles",
+        "coordinates": {
+            "longitude": -118.250523,
+            "latitude": 34.054100
+        },
+        "description": "Located in downtown LA right next to the Walt Disney Concert Hall, the Broad museum is a great spot to take creative photos. Its unique exterior is hard to miss and makes for really fun photographs. You can even go inside and see some pretty interesting art pieces, as general admission is free.",
+        "imageName": "Broad"
+    },
+    {
+        "name": "Walt Disney Concert Hall",
+        "category": "Downtown",
+        "id": 1009,
+        "isFavorite": false,
+        "address": "111 S Grand Ave, Los Angeles",
+        "coordinates": {
+            "longitude": -118.249136,
+            "latitude": 34.055627
+        },
+        "description": "Located in downtown LA, the iconic Walt Disney Concert Hall displays unique shapes and architecture. This metal structure makes a really cool backdrop for portraits, but be careful, the walls can get very hot.",
+        "imageName": "Spiral"
+    },
+]
